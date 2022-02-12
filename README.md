@@ -1,6 +1,6 @@
 # JavaScript
-JavaScript projects
+<h2> JavaScript projects </h2>
 
-Project_1 - Counter with save function <br />
-Task_1 - Error message when button Purchase is clicked <br />
-Task_2 - Simple Calculator <br />
+<p> Project_1 - Counter with save function </p>
+<p> Task_1 - Error message when button Purchase is clicked </p>
+<p> Task_2 - Simple Calculator </p>
