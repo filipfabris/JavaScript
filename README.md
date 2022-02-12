@@ -1,4 +1,5 @@
 # JavaScript
 JavaScript projects
 
-1) Counter with save function
+Project_1 - Counter with save function
+Task_1 - Error message when button Purchase is clicked
