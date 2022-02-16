@@ -4,3 +4,4 @@
 <p> Task_1 - Error message when button Purchase is clicked </p>
 <p> Task_2 - Simple Calculator </p>
 <p> Project_2 - Simple BlackJack </p>
+<p> Project_3 - Chrome extension - tab saver </p>
